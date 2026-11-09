@@ -1,0 +1,21 @@
+{
+	"id": "wmp_visualizers",
+	"name": "WMP Visualizers",
+	"version": "1.0.0",
+	"author": "NaviVani",
+	"description": "The classic Windows Media Player visualizations.",
+	"api": 1,
+	"icon": "icon.png",
+	"screenshots": [
+		"preview/1.png",
+		"preview/2.png",
+		"preview/3.png",
+		"preview/4.png",
+		"preview/5.png",
+		"preview/6.png",
+		"preview/7.png",
+		"preview/8.png",
+		"preview/9.png",
+		"preview/10.png"
+	]
+}

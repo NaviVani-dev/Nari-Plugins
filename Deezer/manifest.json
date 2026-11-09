@@ -1,0 +1,13 @@
+{
+	"id": "deezer",
+	"name": "Deezer",
+	"version": "1.0.0",
+	"author": "NaviVani",
+	"description": "Deezer integration for Nari!",
+	"icon": "icon.jpg",
+	"api": 1,
+	"permissions": ["network"],
+	"screenshots": [
+		"preview/1.png"
+	]
+}
